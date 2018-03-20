@@ -1,0 +1,9 @@
+11:43:05 **** Incremental Build of configuration Debug for project hello_world ****
+make all 
+make: Ništa za napraviti za `all'.
+11:47:56 **** Auto Build of project hello_world_bsp ****
+make -k all 
+'Finished building libraries'
+11:50:38 **** Incremental Build of configuration Debug for project hello_world ****
+make all 
+make: Ništa za napraviti za `all'.
